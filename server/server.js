@@ -82,5 +82,5 @@ io.on("connection", socket => {
 });
 
 server.listen(port, () => {
-  console.log(`Spin up server on port ${port}`);
+  console.log(`Spinning up server on port ${port}`);
 });
